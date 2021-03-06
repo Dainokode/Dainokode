@@ -2,9 +2,7 @@
 
 ### Hello! My name is Antonio Daino - or [Dainokode](https://twitter.com/Dainokode) 👋
 
-### I am a Front End web developer who loves guitars, cats and calisthenics - 🎸🐈🤸‍♂️
+### I am a web developer who loves guitars, cats and calisthenics - 🎸🐈🤸‍♂️
  - 💻 Currently learning python and freelancing 
  - 📚 Always learning new technologies to improve my skillset
  - ✨ My goal is to find a software developer job (soon)
-
-
