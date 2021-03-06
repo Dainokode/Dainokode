@@ -7,10 +7,4 @@
  - 📚 Always learning new technologies to improve my skillset
  - ✨ My goal is to find a software developer job (soon)
 
- ### You can also find me on:
 
-[<img align="left" alt="Dainokode linkedin" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/linkedin-icon.png" />](https://www.linkedin.com/in/antonio-daino-b01ab61a3/)
-
-[<img style="margin: 0 0.5rem;" align="left" alt="Dainokode twitter" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/twitter-icon.png" />](https://twitter.com/Dainokode)
-
-[<img align="left" alt="Dainokode instagram" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/insta-icon.png" />](https://instagram.com/_dainok)
