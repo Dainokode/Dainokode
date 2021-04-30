@@ -1,4 +1,4 @@
-![Add a heading](https://user-images.githubusercontent.com/64027381/110202850-8309f380-7e6b-11eb-8913-74063318c7a6.png)
+![Add a heading](https://user-images.githubusercontent.com/64027381/116684085-c9ce2280-a9b0-11eb-9a80-de6a57fdb175.png)
 
 ### Hello! My name is Antonio Daino - or [Dainokode](https://twitter.com/Dainokode) 👋
 
